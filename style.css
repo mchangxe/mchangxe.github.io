@@ -11,13 +11,6 @@ p{
 	font:myFirstFont;
 	text-align:center; 
 	font-size:140%;
-
-}
-
-p1{
-	color:#EBD1BD;
-	text-align: center;
-	
-
+	vertical-align: middle;
 
 }
