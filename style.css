@@ -1,9 +1,14 @@
 @charset "UTF-8";
 
-@font-face { font-family: VCR_OSD_MONO_1.001; src: url('mchangxe.github.io/VCR_OSD_MONO_1.001.ttf'); } 
+@font-face { 
+
+	font-family: myFirstFont; 
+	src: url(mchangxe.github.io/VCR_OSD_MONO_1.001.ttf); 
+
+} 
 p{
 	color:white;
-	font:VCR_OSD_MONO_1.001;
+	font:myFirstFont;
 	text-align:center; 
 	font-size:140%;
 
