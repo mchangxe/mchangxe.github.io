@@ -3,9 +3,10 @@
 @font-face { 
 
 	font-family: myFirstFont; 
-	src:url('VCR.ttf'); 
+	src:url('mchangxe.github.io/vcr.ttf'); 
 
 } 
+
 p{
 	color:white;
 	font-family: myFirstFont;
