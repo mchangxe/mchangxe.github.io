@@ -3,12 +3,12 @@
 @font-face { 
 
 	font-family: myFirstFont; 
-	src: url('mchangxe.github.io/VCR_OSD_MONO_1.001.ttf'); 
+	src:url('VCR_OSD_MONO_1.001.ttf'); 
 
 } 
 p{
 	color:white;
-	font:Helvetica;
+	font:VCR_OSD_MONO_1.001;
 	text-align:center; 
 	font-size:140%;
 	vertical-align: middle;
