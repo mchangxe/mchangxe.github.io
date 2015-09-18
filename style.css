@@ -3,7 +3,7 @@
 @font-face { 
 
 	font-family: myFirstFont; 
-	src:url('vcr.ttf'); 
+	src:url('edunline.ttf'); 
 	;
 } 
 
@@ -11,10 +11,10 @@ p{
 	color:white;
 	font-family: myFirstFont;
 	text-align:center; 
-	font-size:140%;
+	font-size:160%;
 	vertical-align: middle;
-	margin-top:220px;
-	line-height: 50px;
+	margin-top:200px;
+	line-height: 80px;
 
 }
 
