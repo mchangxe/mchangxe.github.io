@@ -5,9 +5,6 @@
 	font-family: myFirstFont; 
 	src:url('Paskowy.ttf'); 
 
-	font-size: clock
-	src:url('vcr.ttf');
-	;
 } 
 
 p{
@@ -21,11 +18,4 @@ p{
 
 }
 
-script{
-
-	text-align: center;
-	font-size: 150%;
-	vertical-align: middle;
-	font-family: clock;
-}
 
