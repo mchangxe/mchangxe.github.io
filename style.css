@@ -3,7 +3,7 @@
 @font-face { 
 
 	font-family: myFirstFont; 
-	src:url('Paskowy.ttf'); 
+	src:url('courier.ttf'); 
 
 } 
 
@@ -11,10 +11,13 @@ p{
 	color:white;
 	font-family: myFirstFont;
 	text-align:center; 
-	font-size:195%;
+	font-size:75%;
 	vertical-align: middle;
-	margin-top:200px;
-	line-height: 80px;
+	margin-top:50px;
+	margin-right: 150px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+	line-height: 40px;
 
 }
 
